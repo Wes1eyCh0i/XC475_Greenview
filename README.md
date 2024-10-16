@@ -38,6 +38,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 # Folder Structure
+```
 ├─- public/
 │   ├── favicon.ico
 │   ├── index.html
@@ -53,3 +54,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ├── .gitignore
 ├── package.json
 └── README.md
+```
