@@ -44,12 +44,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 │   ├── index.html
 │   └── manifest.json
 ├─- src/
-│   ├── componenets/
-│   ├── features/
-│   ├── pages/
-│   ├── services/
+│   ├── componenets/    # Basic components
+│   ├── features/       # Main functionalities / User Stories related components
+│   ├── pages/          # routes
+│   ├── services/       # APIs
 │   ├── utils/
-│   ├── App.tsx
+│   ├── App.tsx        
 │   └── index.js
 ├── .gitignore
 ├── package.json
