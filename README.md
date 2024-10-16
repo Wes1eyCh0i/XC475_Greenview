@@ -35,3 +35,21 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+# Folder Structure
+├─- public/
+│   ├── favicon.ico
+│   ├── index.html
+│   └── manifest.json
+├─- src/
+│   ├── componenets/
+│   ├── features/
+│   ├── pages/
+│   ├── services/
+│   ├── utils/
+│   ├── App.tsx
+│   └── index.js
+├── .gitignore
+├── package.json
+└── README.md
